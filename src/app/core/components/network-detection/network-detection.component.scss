@@ -1,0 +1,20 @@
+.network-status-container {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.56);
+  top: 0;
+  left: 0;
+}
+.network-status-content {
+  align-content: center;
+  align-self: center;
+  background: white;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 10px;
+}
